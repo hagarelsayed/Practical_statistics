@@ -20,7 +20,8 @@ The interquartile range is calculated as the difference between Q3-Q1
 
 <img scr="./Images/Screenshot%20(1177).png" width = "100" >  
 <img scr="./Images/Screenshot (1178).png" height = "100" >  
-<img scr="./Images/Screenshot (1179).png" width = "100" >  
+<img scr="./Images/Screenshot (1179).png" >  
  #You can also specify height but only one of them to maintain the aspect ratio. 
 
+<img scr="Lesson3_Descriptiive Part2/Images/Screenshot (1189).png" >  
 
