@@ -18,9 +18,9 @@ The range is then calculated as the difference between the maximum and the minim
 IQR
 The interquartile range is calculated as the difference between Q3-Q1
 
-<img scr=".\Images\Screenshot (1177).png" width = "100" >  
-<img scr=".\Images\Screenshot (1178).png" height = "100" >  
-<img scr=".\Images\Screenshot (1179).png" width = "100" >  
+<img scr="./Images/Screenshot%20(1177).png" width = "100" >  
+<img scr="./Images/Screenshot (1178).png" height = "100" >  
+<img scr="./Images/Screenshot (1179).png" width = "100" >  
  #You can also specify height but only one of them to maintain the aspect ratio. 
 
 
